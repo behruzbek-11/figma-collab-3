@@ -98,3 +98,37 @@ body {
     cursor: pointer;
 
 }
+
+
+.hero-startede{
+    
+    font-family: Jost;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: right;
+color: #3A4374;
+}
+
+
+
+.hero-startedee{
+   
+    font-family: Jost;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: right;
+color: #1c37d3;
+}
+
+.hero-item3{
+    position: relative;
+    left: 467px;
+    top: -287px;
+    display: flex;
+    align-items: center;
+    
+}
