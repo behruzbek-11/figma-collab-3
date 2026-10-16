@@ -1,0 +1,152 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    font-family: 'Roboto', 'Arial', sans-serif;
+    background-color:  #e3e4f0;;
+}
+
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    display: block;
+}
+
+.container{
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.hero-wrapper{
+    display: flex;
+    align-items: center;
+    
+}
+
+.hero-started{
+    
+    font-family: Jost;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: right;
+color: #3A4374;
+}
+
+.hero-img{
+    margin-top: 16px;
+    margin-right: 237px;
+}
+
+.hero-starte{
+   
+    font-family: Jost;
+font-weight: 500;
+font-size: 14px;
+line-height: 22px;
+letter-spacing: 0px;
+text-align: right;
+color: #1c37d3;
+}
+
+.hero-item1{
+    position: relative;
+    left: 467px;
+    top: -287px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.hero-title{
+    font-family: Jost;
+font-weight: 700;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: -0.33px;
+color: #454e81;
+}
+
+.hero-text{
+    margin-top: 8px;
+    margin-bottom: 32px;
+    font-family: Jost;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0px;
+color: #647196;
+}
+
+.hero-inp1{
+    margin-bottom: 16px;
+    border: none;
+    border-radius: 5px;
+    padding-top: 13px;
+    padding-left: 24px;
+    padding-right: 412px;
+    padding-bottom: 13px;
+    font-family: Jost;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0px;
+color: #3A4374;
+}
+
+.hero-inp2{
+    border: none;
+    border-radius: 5px;
+    padding-top: 13px;
+    padding-left: 24px;
+    padding-right: 412px;
+    padding-bottom: 13px;
+    font-family: Jost;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0px;
+color: #3A4374;   
+}
+
+
+.hero-inp3{
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    padding-top: 13px;
+    padding-left: 272px;
+    padding-right: 272px;
+    padding-bottom: 13px;
+    margin-top: 24px;
+    font-family: Jost;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0px;
+color: white;
+background-color: #4661E6;
+}
+
+
+.hero-btn{
+    position: relative;
+    top: 4px;
+    left: -36px;
+    width: 24px;
+    height: 24px;
+     background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url(./images/index-img2.png);
+    border: none;
+    background-color: white;
+}
